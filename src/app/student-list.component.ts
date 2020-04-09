@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+/*import { Component } from '@angular/core';
 
 
 @Component({
@@ -17,4 +17,4 @@ export class StudentList {
     onStudentSelected(name: string) {
         console.log('选中了学生:' + name);
     }
-}
+}*/

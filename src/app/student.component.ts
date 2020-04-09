@@ -1,4 +1,4 @@
-import { Component, Output, EventEmitter } from '@angular/core';
+/*import { Component, Output, EventEmitter } from '@angular/core';
 
 
 
@@ -21,4 +21,4 @@ export class Student {
     onClicked() {
         this.studentSelected.emit(this.name);
     }
-}
+}*/
