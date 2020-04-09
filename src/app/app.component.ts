@@ -8,6 +8,7 @@ import { Product } from './product';
 })
 export class AppComponent {
   products: Product[];
+  title: any;
 
   constructor() {
     this.products = [
